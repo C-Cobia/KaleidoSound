@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/app.qss</file>
+        <file>resources/metronome_click.wav</file>
+    </qresource>
+</RCC>
